@@ -32,7 +32,7 @@ Resets checkboxes and radio buttons that are selected by default on the Web site
 
 ### Porting app
 This is a port of an existing application. Basically, there is no functionality that I implemented.
-- Death to _Blanck ( Coming soon )
+- Death to _Blanck ( Coming soon )  
 Sometimes when you open a link on a web page, it opens in a different tab, right? This extension prevents that phenomenon.
 [The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.
   
