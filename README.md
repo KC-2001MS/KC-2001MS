@@ -19,18 +19,27 @@ Javascript is used to develop Safari extensions. I use it minimally and am not a
 Recently released apps are shown at the top of each.
 
 ### Developed Apps
-- [Word Filter X](https://apps.apple.com/us/app/word-filter-x/id1668831130)  
+This application is a list of applications I have developed with additional functionality. Some of the original applications may exist.  
+- Uncheck X ( Under development )
+Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.
+- [Word Filter X](https://apps.apple.com/us/app/word-filter-x/id1668831130) ( 2023 ~ )  
   This app is a Safari extension that blocks words.  
+  This app is based on "Hiyoko Filter".  
   (iOS/iPadOS/macOS)
-- [Simple Editor X](https://apps.apple.com/us/app/simple-editor-x/id1612026794)  
+- [Simple Editor X](https://apps.apple.com/us/app/simple-editor-x/id1612026794) ( 2022 ~ )  
   It is a text editor that can read out text to check for strange expressions.  
   (macOS)
 
 ### Porting app
-Coming soon
+This is a port of an existing application. Basically, there is no functionality that I implemented.
+- Death to _Blanck ( Coming soon )
+Sometimes when you open a link on a web page, it opens in a different tab, right? This extension prevents that phenomenon.
+[The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.
+  
 
-### Localized Apps
-- [Declutter for Safari](https://apps.apple.com/jp/app/id1574021257)  
+### Localized App
+These are the list of applications involved in the translation.
+- [Declutter for Safari](https://apps.apple.com/jp/app/id1574021257) ( 2022 )  
   When the same URL is opened in different tabs, delete one of them to organize the tabs.
   (macOS)
 
