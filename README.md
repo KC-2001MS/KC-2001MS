@@ -36,7 +36,7 @@ This is a port of an existing application. Basically, there is no functionality 
 Sometimes when you open a link on a web page, it opens in a different tab, right? This extension prevents that phenomenon.
 [The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.
 (macOS)  
-* We plan to port it to iOS and iPadOS, but we have not yet determined when that will be because it has failed Apple's review process.
+We plan to port it to iOS and iPadOS, but we have not yet determined when that will be because it has failed Apple's review process.
   
 
 ### Localized App
