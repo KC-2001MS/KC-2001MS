@@ -22,7 +22,7 @@ Recently released apps are shown at the top of each.
 This application is a list of applications I have developed with additional functionality. Some of the original applications may exist.  
 - [Uncheck X](https://apps.apple.com/jp/app/uncheck-x/id6446932202?mt=12) ( 2023 ~ )  
   Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.  
-  (macOS)
+  (iOS/iPadOS/macOS)
 - [Word Filter X](https://apps.apple.com/us/app/word-filter-x/id1668831130) ( 2023 ~ )  
   This app is a Safari extension that blocks words.  
   This app is based on "Hiyoko Filter".  
