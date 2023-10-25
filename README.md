@@ -5,12 +5,16 @@ I have been interested in programming since I was a little boy, but I could not 
 However, with the release of SwiftUI, I can now easily create apps, and I am currently developing several apps.
 
 ## Skill
-- SwiftUI ( 2020 ~ )  
+- Swift ( 2020 ~ )  
   This is the main technology I use. I also use the following APIs related to this technology  
+・SwiftUI
+・Observation  
+・KeyValueStore  
+・~~Core Data~~  (Migration to SwiftData)  
+・SwiftData  
+・TipKit
 ・WidgetKit  
 ・App Intents  
-・Core Data  
-・KeyValueStore  
 
 - Javascript for Safari Web Extension ( 2023 ~ )  
 Javascript is used to develop Safari extensions. I use it minimally and am not an expert in it.
@@ -20,12 +24,19 @@ Recently released apps are shown at the top of each.
 
 ### Developed Apps
 This application is a list of applications I have developed with additional functionality. Some of the original applications may exist.  
-- [Uncheck X](https://apps.apple.com/jp/app/uncheck-x/id6446932202?mt=12) ( 2023 ~ )  
-  Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.  
-  (iOS/iPadOS/macOS)
+
+- [Mahjong Tile Converter](https://apps.apple.com/app/mahjong-tile-converter/id6470128646) ( 2023 ~ )  
+Converts mahjong tiles written in mpsz format to a format using Unicode.
+(macOS)
+- [My Word X](https://apps.apple.com/app/my-word-x/id6450119338) ( 2023 ~ )  
+This is an application to create your own dictionary.
+(iOS/iPadOS/macOS/watchOS/tvOS)
+- [Uncheck X](https://apps.apple.com/app/uncheck-x/id6446932202) ( 2023 ~ )  
+Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.
+(iOS/iPadOS/macOS)
 - [Word Filter X](https://apps.apple.com/us/app/word-filter-x/id1668831130) ( 2023 ~ )  
   This app is a Safari extension that blocks words.  
-  This app is based on "Hiyoko Filter".  
+  This app is based on "[ひよこフィルターアプリ ( Hiyoko Filter App )](https://apps.apple.com/jp/app/ひよこフィルター/id6443337009)".  
   (iOS/iPadOS/macOS)
 - [Simple Editor X](https://apps.apple.com/us/app/simple-editor-x/id1612026794) ( 2022 ~ )  
   It is a text editor that can read out text to check for strange expressions.  
@@ -33,17 +44,15 @@ This application is a list of applications I have developed with additional func
 
 ### Porting app
 This is a port of an existing application. Basically, there is no functionality that I implemented.
-- [Death to _Blanck](https://apps.apple.com/us/app/id1672080999) ( 2023 ~ )  
+- [Death To _blank](https://apps.apple.com/app/death-to-blank/id1672080999) ( 2023 ~ )  
 Sometimes when you open a link on a web page, it opens in a different tab, right? This extension prevents that phenomenon.
-[The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.  
-(macOS)  
-We plan to port it to iOS and iPadOS, but we have not yet determined when that will be because it has failed Apple's review process.
-  
+[The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.
+(iOS/iPadOS/macOS)
 
 ### Localized App
 These are the list of applications involved in the translation.
 - [Declutter for Safari](https://apps.apple.com/jp/app/id1574021257) ( 2022 )  
-  When the same URL is opened in different tabs, delete one of them to organize the tabs.
+  When the same URL is opened in different tabs, delete one of them to organize the tabs.  
   (macOS)
 
 <!--
@@ -67,3 +76,4 @@ Please contact us through the following e-mail address.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
