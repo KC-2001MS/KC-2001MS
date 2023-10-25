@@ -4,6 +4,10 @@
 I have been interested in programming since I was a little boy, but I could not take the plunge.  
 However, with the release of SwiftUI, I can now easily create apps, and I am currently developing several apps.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KC-2001MS&count_private=true&show_icons=true" />
+</a></br></br></br></br></br></br></br></br>
+
 ## Skill
 - Swift ( 2020 ~ )  
   This is the main technology I use. I also use the following APIs related to this technology  
@@ -66,7 +70,6 @@ If you would like to make a donation, please click here. The money you give will
 ## Contact
 Please contact us through the following e-mail address.  
 [iroiro.work1234@gmail.com](mailto:iroiro.work1234@gmail.com)
-
 
 <!--
 - 🔭 I’m currently working on ...
