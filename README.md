@@ -32,13 +32,13 @@ This application is a list of applications I have developed with additional func
 
 - [Mahjong Tile Converter](https://apps.apple.com/app/mahjong-tile-converter/id6470128646) ( 2023 ~ )  
 Converts mahjong tiles written in mpsz format to a format using Unicode.
-<p align="center">
+<p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
 </p>
 
 - [My Word X](https://apps.apple.com/app/my-word-x/id6450119338) ( 2023 ~ )  
 This is an application to create your own dictionary.
-<p align="center">
+<p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
     <img src="https://img.shields.io/badge/iOS-17.0+-green.svg" />
     <img src="https://img.shields.io/badge/iPadOS-17.0+-brightgreen.svg" />
@@ -49,7 +49,7 @@ This is an application to create your own dictionary.
 
 - [Uncheck X](https://apps.apple.com/app/uncheck-x/id6446932202) ( 2023 ~ )  
 Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.
-<p align="center">
+<p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
     <img src="https://img.shields.io/badge/iOS-17.0+-green.svg" />
     <img src="https://img.shields.io/badge/iPadOS-17.0+-brightgreen.svg" />
@@ -59,7 +59,7 @@ Resets checkboxes and radio buttons that are selected by default on the Web site
 - [Word Filter X](https://apps.apple.com/us/app/word-filter-x/id1668831130) ( 2023 ~ )  
   This app is a Safari extension that blocks words.  
   This app is based on "[ひよこフィルターアプリ ( Hiyoko Filter App )](https://apps.apple.com/jp/app/ひよこフィルター/id6443337009)".  
-<p align="center">
+<p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
     <img src="https://img.shields.io/badge/iOS-17.0+-green.svg" />
     <img src="https://img.shields.io/badge/iPadOS-17.0+-brightgreen.svg" />
@@ -67,7 +67,7 @@ Resets checkboxes and radio buttons that are selected by default on the Web site
 </p>
 - [Simple Editor X](https://apps.apple.com/us/app/simple-editor-x/id1612026794) ( 2022 ~ )  
   It is a text editor that can read out text to check for strange expressions.  
- <p align="center">
+ <p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
     <img src="https://img.shields.io/badge/iOS-17.0+-green.svg" />
     <img src="https://img.shields.io/badge/iPadOS-17.0+-brightgreen.svg" />
@@ -79,7 +79,7 @@ This is a port of an existing application. Basically, there is no functionality 
 - [Death To _blank](https://apps.apple.com/app/death-to-blank/id1672080999) ( 2023 ~ )  
 Sometimes when you open a link on a web page, it opens in a different tab, right? This extension prevents that phenomenon.
 [The original extension](https://chrome.google.com/webstore/detail/death-to-blank/gneobebnilffgkejpfhlgkmpkipgbcno?gl=JP&hl=ja) exists as a Chrome extension.
- <p align="center">
+ <p align="right">
     <img src="https://img.shields.io/badge/macOS-14.0+-red.svg" />
     <img src="https://img.shields.io/badge/iOS-17.0+-green.svg" />
     <img src="https://img.shields.io/badge/iPadOS-17.0+-brightgreen.svg" />
@@ -90,7 +90,7 @@ Sometimes when you open a link on a web page, it opens in a different tab, right
 These are the list of applications involved in the translation.
 - [Declutter for Safari](https://apps.apple.com/jp/app/id1574021257) ( 2022 )  
   When the same URL is opened in different tabs, delete one of them to organize the tabs.  
- <p align="center">
+ <p align="right">
     <img src="https://img.shields.io/badge/macOS-11.0+-red.svg" />
 </p>
 
