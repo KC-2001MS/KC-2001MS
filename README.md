@@ -11,15 +11,17 @@ However, with the release of SwiftUI, I can now easily create apps, and I am cur
 ## Skill
 - Swift ( 2020 ~ )  
   This is the main technology I use. I also use the following APIs related to this technology  
+・Foundation(URLSession, etc.)  
 ・SwiftUI
 ・Observation  
 ・KeyValueStore  
-・~~Core Data~~  (Migration to SwiftData)  
+・~~Core Data~~  -> SwiftData  
 ・SwiftData  
 ・TipKit
 ・WidgetKit  
 ・App Intents  
 ・Core Motion  
+・MapKit  
 
 - Javascript for Safari Web Extension ( 2023 ~ )  
 Javascript is used to develop Safari extensions. I use it minimally and am not an expert in it.
