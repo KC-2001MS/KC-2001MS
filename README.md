@@ -100,7 +100,7 @@ These are the list of applications involved in the translation.
 
 ### Package
 These are the list of packages produced.
-- [OnboardingUI]([https://g](https://github.com/KC-2001MS/OnboardingUI)) ( 2023 ~ )
+- [OnboardingUI]([https://g](https://github.com/KC-2001MS/OnboardingUI)) ( 2023 ~ )  
   Package for easy implementation of onboarding with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
 
