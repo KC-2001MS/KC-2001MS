@@ -100,14 +100,17 @@ These are the list of applications involved in the translation.
 
 ### Package
 These are the list of packages produced.
-- [OnboardingUI]([https://g](https://github.com/KC-2001MS/OnboardingUI)) ( 2023 ~ )  
-  Package for easy implementation of onboarding with SwiftUI  
+- [OnboardingUI](https://github.com/KC-2001MS/OnboardingUI) ( 2023 ~ )  
+  Framework for easy implementation of onboarding with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
-
-
+<!-- 
+- [StellaUI](https://github.com/KC-2001MS/StellaUI) ( 2023 ~ )  
+  Framework for easy implementation of novel games with SwiftUI  
+  [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
+-->
 ## Supporting
 If you would like to make a donation, please click here. The money you give will be used to improve my programming skills and maintain the application.  
-
+[Buy Me A Coffee](https://www.buymeacoffee.com/iroiro)  
 [Pay by PayPal](https://paypal.me/iroiroWork?country.x=JP&locale.x=ja_JP)
 
 ## Contact
