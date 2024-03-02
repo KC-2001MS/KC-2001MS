@@ -11,17 +11,16 @@ However, with the release of SwiftUI, I can now easily create apps, and I am cur
 ## Skill
 - Swift ( 2020 ~ )  
   This is the main technology I use. I also use the following APIs related to this technology  
-・Foundation(URLSession, etc.)  
-・SwiftUI
+・Foundation(URLSession,KeyValueStore, etc.)  
+・SwiftUI  
 ・Observation  
-・KeyValueStore  
 ・~~Core Data~~  -> SwiftData  
-・TipKit
+・TipKit  
 ・WidgetKit  
 ・App Intents  
 ・Core Motion  
 ・MapKit  
-・OSLog
+・OSLog  
 ・Swift-Docc  
 
 - Javascript for Safari Web Extension ( 2023 ~ )  
@@ -108,9 +107,10 @@ These are the list of packages produced.
   Framework for easy implementation of novel games with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
 -->
+
 ## Supporting
 If you would like to make a donation, please click here. The money you give will be used to improve my programming skills and maintain the application.  
-[Buy Me A Coffee](https://www.buymeacoffee.com/iroiro)  
+<a href="https://www.buymeacoffee.com/iroiro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 [Pay by PayPal](https://paypal.me/iroiroWork?country.x=JP&locale.x=ja_JP)
 
 ## Contact
