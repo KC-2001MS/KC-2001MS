@@ -114,24 +114,7 @@ If you would like to make a donation, please click here. The money you give will
 <a href="https://www.buymeacoffee.com/iroiro" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
-<style>
-.paypalButton{
-    border-radius: 20px;
-    display: block;
-    width: 217px;
-    padding: 15px;
-    box-sizing: border-box;
-    background: #0070ba;
-    color: #FFF;
-    text-decoration: none;
-    text-align: center;
-}
-.paypalButton:hover{
-    color: #FFF;
-    background: #005ea6;
-}
-</style>
-<a href="https://paypal.me/iroiroWork" class="paypalButton">Pay by PayPal</a>
+<a href="https://paypal.me/iroiroWork" style="border-radius: 20px; display: block; width: 217px; padding: 15px; box-sizing: border-box; background: #0070ba; color: #FFF; text-decoration: none; text-align: center;" onmouseover="this.style.background='#005ea6';" onmouseout="this.style.background='#0070ba';">Pay by PayPal</a>
 
 ## Contact
 Please contact us through the following e-mail address.  
