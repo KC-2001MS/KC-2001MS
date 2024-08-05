@@ -27,6 +27,10 @@ However, with the release of SwiftUI, I can now easily create apps, and I am cur
 - Javascript for Safari Web Extension ( 2023 ~ )  
 Javascript is used to develop Safari extensions. I use it minimally and am not an expert in it.
 
+- CI/CD ( 2024 ~ )  
+・Xcode Cloud ( 2024 ~ )  
+・GitHub Actions ( 2024 ~ )  
+
 ## Apps
 Recently released apps are shown at the top of each.
 
@@ -100,11 +104,17 @@ These are the list of applications involved in the translation.
 
 ### Package
 These are the list of packages produced.
+- [SwiftStorage](https://github.com/KC-2001MS/SwiftStorage) ( 2024 ~ )  
+  SwiftStorage is an easy way to persist data without Key Value. And it is designed to integrate seamlessly with SwiftUI.  
+  [Documentation](https://kc-2001ms.github.io/SwiftStorage/documentation/swiftstorage/)
+- [SwiftLI](https://github.com/KC-2001MS/SwiftLI) ( 2024 ~ )  
+  SwiftLI is a library aimed at writing command line displays in Swift in a SwiftUI-like manner, and was inspired by SwiftUI and Ignite.  
+  [Documentation](https://kc-2001ms.github.io/SwiftLI/documentation/swiftli/)
 - [OnboardingUI](https://github.com/KC-2001MS/OnboardingUI) ( 2023 ~ )  
   Framework for easy implementation of onboarding with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
 <!-- 
-- [StellaUI](https://github.com/KC-2001MS/StellaUI) ( 2023 ~ )  
+- [StellaUI](https://github.com/KC-2001MS/StellaUI) ( 2024 ~ )  
   Framework for easy implementation of novel games with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
 -->
