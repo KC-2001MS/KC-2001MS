@@ -11,21 +11,30 @@ However, with the release of SwiftUI, I can now easily create apps, and I am cur
 ## Skill
 - Swift ( 2020 ~ )  
   This is the main technology I use. I also use the following APIs related to this technology  
-・Foundation(URLSession,KeyValueStore, etc.)  
-・SwiftUI  
-・Observation  
-・~~Core Data~~  -> SwiftData  
-・TipKit  
-・WidgetKit  
-・App Intents  
-・Core Motion  
-・MapKit  
-・OSLog  
-・Swift-Docc  
-・BackgroundAssets  
+・Foundation(URLSession,KeyValueStore, etc.) ( 2020 ~ )  
+・SwiftUI ( 2020 ~ )  
+・Observation ( 2023 ~ )  
+・~~Core Data~~  -> SwiftData   ( 2023 ~ )  
+・TipKit ( 2024 ~ )  
+・WidgetKit ( 2020 ~ )  
+・App Intents ( 2023 ~ )  
+・Core Motion ( 2023 ~ )  
+・MapKit ( 2024 ~ )  
+・OSLog ( 2023 ~ )  
+・Swift-Docc ( 2023 ~ )  
+・BackgroundAssets ( 2023 ~ )  
 
-- Javascript for Safari Web Extension ( 2023 ~ )  
-Javascript is used to develop Safari extensions. I use it minimally and am not an expert in it.
+- HTML, CSS, Javascript ( 2023 ~ )  
+I used it to create a portfolio website.
+
+- JavaScript for Safari Web Extension ( 2023 ~ )  
+JavaScript is used to develop Safari extensions. I use it minimally and am not an expert in it.
+
+- TypeScript and Next.js ( 2024 ~ )  
+The portfolio site was completely redesigned. In doing so, we have employed these technologies.
+
+- TypeScript for Safari Web Extension ( 2024 ~ )  
+Technical verification of the ability to replace Safari extensions created in JavaScript with TypeScript.
 
 - CI/CD ( 2024 ~ )  
 ・Xcode Cloud ( 2024 ~ )  
@@ -113,10 +122,16 @@ These are the list of packages produced.
 - [OnboardingUI](https://github.com/KC-2001MS/OnboardingUI) ( 2023 ~ )  
   Framework for easy implementation of onboarding with SwiftUI  
   [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
+- [AboutUI](https://github.com/KC-2001MS/AboutUI) ( 2024 ~ )  
+  Package to create a window about macOS apps in SwiftUI  
+  [Documentation](https://kc-2001ms.github.io/AboutUI/documentation/aboutui/)
+- [ArticleUI](https://github.com/KC-2001MS/ArticleUI) ( 2024 ~ )  
+  A package that allows you to create a UI for articles like List in SwiftUI  
+  [Documentation](https://kc-2001ms.github.io/ArticleUI/documentation/articleui/)
 <!-- 
 - [StellaUI](https://github.com/KC-2001MS/StellaUI) ( 2024 ~ )  
   Framework for easy implementation of novel games with SwiftUI  
-  [Documentation](https://kc-2001ms.github.io/OnboardingUI/documentation/onboardingui/)
+  [Documentation](https://kc-2001ms.github.io/StellaUI/documentation/stellaui/)
 -->
 
 ## Supporting
