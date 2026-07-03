@@ -4,8 +4,8 @@
 I have been interested in programming since I was a little boy, but I could not take the plunge.  
 However, with the release of SwiftUI, I can now easily create apps, and I am currently developing several apps.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KC-2001MS&count_private=true&show_icons=true" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=KC-2001MS&count_private=true&show_icons=true" />
 </a></br></br></br></br></br></br></br></br></br>
 
 ## Skill
