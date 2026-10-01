@@ -186,16 +186,16 @@ These are the list of applications involved in the translation.
 
 ### Package
 These are the list of packages produced.
-- [SwiftWindowLauncher](https://github.com/KC-2001MS/SwiftWindowLauncher)  
+- [SwiftWindowLauncher](https://github.com/KC-2001MS/SwiftWindowLauncher) ( 2025 ~ )  
   Package that makes it easy to open windows from the CLI or the main function.
-- [Information](https://github.com/KC-2001MS/Information)  
+- [Information](https://github.com/KC-2001MS/Information) ( 2024 ~ )  
   Package that provides type-safe access to Info.plist values using macros.
-- [AnimatedImage](https://github.com/KC-2001MS/AnimatedImage)  
+- [AnimatedImage](https://github.com/KC-2001MS/AnimatedImage) ( 2026 ~ )  
   Package for displaying GIF, APNG and animated WebP images in SwiftUI.
 - [SwiftStorage](https://github.com/KC-2001MS/SwiftStorage) ( 2024 ~ )  
   Macro to generate Observation code for persistence by UserDefaults. It is designed to integrate seamlessly with SwiftUI.  
   [Documentation](https://kc-2001ms.github.io/SwiftStorage/documentation/swiftstorage/)
-- [Hashify](https://github.com/KC-2001MS/Hashify)  
+- [Hashify](https://github.com/KC-2001MS/Hashify) ( 2025 ~ )  
   Macro that provides compile-time hashing functionality for string literals.
 - [SwiftLI](https://github.com/KC-2001MS/SwiftLI) ( 2024 ~ )  
   A package that makes it easy to create a CUI for a command line tool in a SwiftUI-like manner. It was inspired by SwiftUI and Ignite.  
@@ -216,17 +216,17 @@ These are the list of packages produced.
 -->
 
 ### Shell Script
-- [Shell-Config-Setup](https://github.com/KC-2001MS/Shell-Config-Setup)  
+- [Shell-Config-Setup](https://github.com/KC-2001MS/Shell-Config-Setup) ( 2022 ~ )  
   Shell scripts to easily configure the OS and download applications.
 
 ### Others
-- [Word-Filter-X-Templates](https://iroiro.dev/Word-Filter-X-Templates/) ( Template )  
+- [Word-Filter-X-Templates](https://iroiro.dev/Word-Filter-X-Templates/) ( Template, 2023 ~ )  
   Template site for Word Filter X configuration data.
-- [Swift](https://iroiro.dev/en/product/bluesky_swift-feed) ( Bluesky Feed )  
+- [Swift](https://iroiro.dev/en/product/bluesky_swift-feed) ( Bluesky Feed, 2024 ~ )  
   This feed provides information related to the Swift language.
-- [Swift](https://iroiro.dev/en/product/brave_swift-goggle) ( Brave Goggle )  
+- [Swift](https://iroiro.dev/en/product/brave_swift-goggle) ( Brave Goggle, 2024 ~ )  
   This goggle provides information related to the Swift language.
-- [Iroiro's portfolio](https://iroiro.dev) ( Website )  
+- [Iroiro's portfolio](https://iroiro.dev) ( Website, 2023 ~ )  
   This is the homepage. The purpose of this site is to introduce and support the services I have made available to the public.
 
 ## Supporting
