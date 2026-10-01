@@ -58,18 +58,21 @@ This application is a list of applications I have developed with additional func
     <img src="https://img.shields.io/badge/watchOS-26.1+-yellowgreen.svg" />
     <img src="https://img.shields.io/badge/visionOS-26.1+-blue.svg" />
 </p>
+
 - [FileSprout](https://apps.apple.com/app/id6755629616) ( 2025 ~ )  
   A menu bar app that creates empty files with any name and extension. Add them right where you need them by dragging and dropping or copying them to the clipboard.  
   [Support page](https://iroiro.dev/en/product/filesprout)  
 <p align="right">
     <img src="https://img.shields.io/badge/macOS-26+-red.svg" />
 </p>
+
 - [SSH Key Wallet](https://apps.apple.com/app/id6743005902) ( 2025 ~ )  
   The easiest way to manage SSH encryption keys and SSH Config files in ~/.ssh/ based on OpenSSH.  
   [Support page](https://iroiro.dev/en/product/sshkeywallet)  
 <p align="right">
     <img src="https://img.shields.io/badge/macOS-15+-red.svg" />
 </p>
+
 - [日本法人情報 ( Japan Corp Info )](https://apps.apple.com/jp/app/id6477782786) ( 2024 ~ )  
   Search and manage information on Japanese corporations from gBizINFO, provided by the Ministry of Economy, Trade and Industry. Available in Japanese only.  
   [Support page](https://iroiro.dev/product/japancorpinfo)  
@@ -79,12 +82,14 @@ This application is a list of applications I have developed with additional func
     <img src="https://img.shields.io/badge/iPadOS-26+-brightgreen.svg" />
     <img src="https://img.shields.io/badge/visionOS-26+-blue.svg" />
 </p>
+
 - [Mahjong Tile Converter](https://apps.apple.com/app/mahjong-tile-converter/id6470128646) ( 2023 ~ )  
   Converts mahjong tiles written in MPSZ format to a graphical representation using Unicode.  
   [Support page](https://iroiro.dev/en/product/mahjongtileconverter)  
 <p align="right">
     <img src="https://img.shields.io/badge/macOS-26+-red.svg" />
 </p>
+
 - [My Word X](https://apps.apple.com/app/my-word-x/id6450119338) ( 2023 ~ )  
   This is an application to create your own dictionary.  
   [Support page](https://iroiro.dev/en/product/mywordx)  
@@ -96,6 +101,7 @@ This application is a list of applications I have developed with additional func
     <img src="https://img.shields.io/badge/visionOS-1.1+-blue.svg" />
     <img src="https://img.shields.io/badge/tvOS-17.4+-white.svg" />
 </p>
+
 - [Uncheck X](https://apps.apple.com/app/uncheck-x/id6446932202) ( 2023 ~ )  
   Resets checkboxes and radio buttons that are selected by default on the Web site to unselected status.  
   [Support page](https://iroiro.dev/en/product/uncheckx)  
@@ -105,6 +111,7 @@ This application is a list of applications I have developed with additional func
     <img src="https://img.shields.io/badge/iPadOS-18+-brightgreen.svg" />
     <img src="https://img.shields.io/badge/visionOS-2+-blue.svg" />
 </p>
+
 - [Word Filter X](https://apps.apple.com/app/word-filter-x/id1668831130) ( 2023 ~ )  
   This app is a Safari extension that blocks words.  
   This app is based on "[ひよこフィルターアプリ ( Hiyoko Filter App )](https://apps.apple.com/jp/app/ひよこフィルター/id6443337009)".  
@@ -115,6 +122,7 @@ This application is a list of applications I have developed with additional func
     <img src="https://img.shields.io/badge/iPadOS-17+-brightgreen.svg" />
     <img src="https://img.shields.io/badge/visionOS-1+-blue.svg" />
 </p>
+
 - [Simple Editor X](https://apps.apple.com/app/simple-editor-x/id1612026794) ( 2022 ~ )  
   It is a text editor that can read out text to check for strange expressions.  
   [Support page](https://iroiro.dev/en/product/simpleeditorx)  
